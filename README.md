@@ -6,4 +6,4 @@
 - prisma
 - express
 - postgresql
-
+- JWT
