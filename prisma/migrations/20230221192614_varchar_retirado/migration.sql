@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Users" ALTER COLUMN "username" SET DATA TYPE TEXT,
+ALTER COLUMN "password" SET DATA TYPE TEXT;
